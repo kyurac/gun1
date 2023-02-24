@@ -73,6 +73,7 @@ function rewriteOption(options: BuffOptions): BuffOptions {
 
     options.TTSGoringBlade = config.TTSGoringBlade
     options.TTSSurgingTempest = config.TTSSurgingTempest
+    options.TTSGnashingFang = config.TTSGnashingFang
     options.TTSDia = config.TTSDia
     options.TTSBiolysis = config.TTSBiolysis
     options.TTSCombustIII = config.TTSCombustIII
